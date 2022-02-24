@@ -7,6 +7,12 @@
                 "paths": [
                     "/callback/"
                 ]
+            },
+            {
+                "appID": "U58N857Y85.com.cloudike.cloudike",
+                "paths": [
+                    "/callback/"
+                ]
             }
         ]
     }
