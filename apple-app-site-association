@@ -5,7 +5,7 @@
             {
                 "appID": "TN44P3E6DY.com.telkomsel.cloudmax",
                 "paths": [
-                    "/callbackdropbox2"
+                    "/mypath/"
                 ]
             }
         ]
